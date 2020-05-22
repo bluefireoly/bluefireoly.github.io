@@ -31,7 +31,7 @@ Spamgourmet was split into two halfs:
 
 You can read more about the current state of the original spamgourmet service in this [forum post](https://bbs.spamgourmet.com/viewtopic.php?f=7&t=1793&sid=5a5448445da031e1773bd777b125f903).
 
-#### Olymp
+#### Olymp <img src="./resources/icons/olymp_logo.png" width="40">
 Olymp is a minecraft server I created a lot of years ago. I learned to program with this project, by using Java and the minecraft-server software [spigot](https://spigotmc.org) as a dependency.
 <br>
 The server made it possible that I could try new things and learn a lot of new techniques, aswell as hot to managing a player base.
