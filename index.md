@@ -41,13 +41,13 @@ Olymp survival is a separate server from the main Olymp server and provides a pu
 <br>
 Also, we built a nice survival world on this server 🙂
 
-##### GameTest OpenGL
+#### GameTest OpenGL
 This project has no real name as it is a learning project only. I wanted to learn OpenGL without the help of any engine, and that is why I decided for [LWJGL](https://www.lwjgl.org/), a game library for java. It provides OpenGl and a lot of other bindings for Java. To learn this rather complicated topic, I followed [this](https://ahbejarano.gitbook.io/lwjglgamedev/) tutorial.
 <br>
 I extended the tutorial code here and there, and even wrote *my own* `.obj` *file parser*.
 
 #### Processing Pong
-// TODO
+[Processing](https://processing.org/) is a framework for learning to deal with visual arts in combination with programming. By default, you code in their own tiny "IDE", but I extracted the core `.jar` file from the programs' directory. This allowed me to easily develop a pong game that I compiled to runnable `.jar` file.
 
-#### Python in School
-// TODO
+#### School
+In school, I have to program a lot of algorithms in order to understand their functionality. I learned about basic things like binary search, sorting algorithms (like insertion, selection or merge sort ([code example](./code_examples/merge_sort.md))), RAM requirement of different practices and much more. After we spoke about these concepts in theory, I implemented them in python or Kotlin.
