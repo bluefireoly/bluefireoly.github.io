@@ -5,8 +5,7 @@
 Because I keep learning new things, I keep trying new things. That means that I have a lot of projects, but I do not finish each one or work it out completely.
 
 ##### HGLabor
-<img src="resources/icons/hglabor_logo.gif" alt="HGLaborLogo" width=50px>
-<br>
+![HGLaborLogo](/resources/icons/hglabor_logo.gif =50x50)
 HGLabor is a minecraft server originally only providing the gamemode HG (SoupPVP with Kits). It was founded in 2019 by [NoRisk](https://www.youtube.com/noriskk).
 Now you can play on the server and enjoy different gamemodes or just hang out in the lobby.
 <br>
