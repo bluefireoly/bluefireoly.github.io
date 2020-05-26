@@ -51,3 +51,6 @@ I extended the tutorial code here and there, and even wrote *my own* `.obj` *fil
 
 #### School
 In school, I have to program a lot of algorithms in order to understand their functionality. I learned about basic things like binary search, sorting algorithms (like insertion, selection or merge sort ([code example](./code_examples/merge_sort.md))), RAM requirement of different practices and much more. After we spoke about these concepts in theory, I implemented them in python or Kotlin.
+
+#### BlueUtils
+[BlueUtils](https://github.com/bluefireoly/BlueUtils) is a collection of utility classes which I need in a lot of cases while programming. As its not a secret you can look into the code if you want. Don't expect anything to special. It includes algorithms like the Midpoint circle algorithm of Horn implemented in Java, but also utility classes like the GsonConfigManager.
